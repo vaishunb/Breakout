@@ -1,4 +1,4 @@
-Breakout
+The Breakout game
 ========
 
 First steps in Java.
